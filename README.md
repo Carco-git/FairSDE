@@ -1,6 +1,6 @@
-# FairSDE: Achieving Fairness Without Harm via Selective Demographic Experts
+# Achieving Fairness Without Harm via Selective Demographic Experts
 
-Official implementation for [Achieving Fairness Without Harm via Selective Demographic Experts](https://arxiv.org/abs/2511.06293).
+This repo contains PyTorch implementation of FairSDE for our paper [Achieving Fairness Without Harm via Selective Demographic Experts](https://arxiv.org/abs/2511.06293).
 
 ## Project Structure
 
